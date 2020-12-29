@@ -1,0 +1,11 @@
+atv-1
+chinuku
+heli-1
+soldier-1
+tank-1
+tower-1
+tree-1
+f-18
+eggle
+toucan
+stork
